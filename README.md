@@ -20,6 +20,6 @@
 * CI/CD
 * DIY Taiko drum for the game Taiko No Tatsujin
 
-<a align="center" href="https://imgflip.com/i/8bb4l7"><img src="https://i.imgflip.com/8bb4l7.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+<a href="https://imgflip.com/i/8bb5u0"><img src="https://i.imgflip.com/8bb5u0.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 Thank you for dropping by!
