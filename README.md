@@ -15,7 +15,7 @@
 * <a href="https://github.com/huongtxdo/ts_patientor">Patients' entries</a> - Full-stack application for inputing patients' entries
 * <a href="https://github.com/huongtxdo/countryInfoAndQuiz">Country info and capital quiz</a> - Front-end application for looking up basic information of countries and playing matching countries' with their capitals.
 
-### I'm Currently Learning (and making):
+### I'm Currently Learning (And Making):
 * React Native
 * CI/CD
 * DIY Taiko drum for the game Taiko No Tatsujin
