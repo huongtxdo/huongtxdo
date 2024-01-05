@@ -14,7 +14,7 @@
 * <a href="https://github.com/huongtxdo/bloglist-react-query">Blog App</a> - Full-stack application for creating and liking blogs.
 * <a href="https://github.com/huongtxdo/ts_patientor">Patients' entries</a> - Full-stack application for inputing patients' entries
 * <a href="https://github.com/huongtxdo/countryInfoAndQuiz">Country info and capital quiz</a> - Front-end application for looking up basic information of countries and playing matching countries' with their capitals.
-* <a href="https://github.com/huongtxdo/library-appr">Library App</a> - Full-stack application for adding and editing books and authors. The communication between browser and server is made using GraphQL.
+* <a href="https://github.com/huongtxdo/library-app">Library App</a> - Full-stack application for adding and editing books and authors. The communication between browser and server is made using GraphQL.
 
 ### I'm Currently Learning (And Making):
 * React Native
