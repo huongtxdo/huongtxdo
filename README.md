@@ -21,6 +21,4 @@
 * CI/CD
 * DIY Taiko drum for the game Taiko No Tatsujin
 
-<img src="https://i.imgflip.com/8bb5u0.jpg" title="whatAmI"/><div><a href="https://imgflip.com/memegenerator"></div>
-
 Thank you for dropping by!
